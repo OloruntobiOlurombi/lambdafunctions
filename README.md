@@ -39,7 +39,11 @@ Now, you're ready to complete some code of your own and deploy a FaaS that reads
 
 ##### Step 2: Update app.py
 
-> Update app.py - Copy the code present in the wikipedia_lambda_exercise.py file and paste it into the HelloWiki/hello_world/app.py file. There are some simple ToDo items for you in the wikipedia_lambda_exercise.py file. If you need help, you can refer/copy the wikipedia_lambda_solution.py code.
+> ***Update app.py*** - Copy the code present in the ***wikipedia_lambda_exercise.py*** file and paste it into the ***HelloWiki/hello_world/app.py*** file. There are some simple ToDo items for you in the ***wikipedia_lambda_exercise.py*** file. If you need help, you can refer/copy the ***wikipedia_lambda_solution.py*** code.
+
+```
+
+```
 
 <img width="847" alt="Screen Shot 2022-08-15 at 5 46 29 PM" src="https://user-images.githubusercontent.com/40290711/184762959-5a8e3439-4aaa-46cc-a752-0834e37ab9e0.png">
 
