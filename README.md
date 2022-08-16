@@ -22,3 +22,7 @@ git clone https://github.com/[Your-username]/DevOps_Microservices.git
 # Navigate to the folder contaning the exercise code
 cd DevOps_Microservices/Lesson-1-Lambda-functions/wikipedia-query
 ```
+
+<img width="848" alt="Screen Shot 2022-08-15 at 5 37 44 PM" src="https://user-images.githubusercontent.com/40290711/184759268-cbb8b002-4dc4-4165-9b52-270d0eac9af0.png">
+
+
