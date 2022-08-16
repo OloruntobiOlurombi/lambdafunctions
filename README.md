@@ -15,3 +15,10 @@
 #### Prerequisites:
 - You should have a Cloud9 environment running already in a separate browser tab.
 - You must have cloned the [Github repo](https://github.com/OloruntobiOlurombi/DevOps_Microservices.git) in the Cloud9 environment and navigate to the folder contaning the exercise code. 
+
+```
+# Clone the repo if not already
+git clone https://github.com/[Your-username]/DevOps_Microservices.git
+# Navigate to the folder contaning the exercise code
+cd DevOps_Microservices/Lesson-1-Lambda-functions/wikipedia-query
+```
