@@ -11,3 +11,7 @@
 > The AWS ecosystem allows Lambda functions to respond to events instead of constantly running. This is similar to a motion detector that turns on a light in the garage. The duration the light may run for could be only a few hours per year. If the light switch was manually triggered it is possible the light would be run constantly for 365 days in the year.
 
 > The AWS Lambda ecosystem allows integration with other core services in AWS through triggers. An example of a trigger would be a movie file that is uploaded to Amazon S3 storage. An AWS Lambda function could be triggered that uses an AWS API to transcode the movie file to a different code or to add captioning.
+
+#### Prerequisites:
+- You should have a Cloud9 environment running already in a separate browser tab.
+- You must have cloned the [Github repo](https://github.com/OloruntobiOlurombi/DevOps_Microservices.git) in the Cloud9 environment and navigate to the folder contaning the exercise code. 
