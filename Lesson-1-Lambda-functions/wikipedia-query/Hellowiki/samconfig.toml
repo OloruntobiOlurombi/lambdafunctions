@@ -1,0 +1,11 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "twiter-appStack"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1t7i5btpf7uhq"
+s3_prefix = "twiter-appStack"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+image_repositories = ["HelloWorldFunction=784676841171.dkr.ecr.us-east-1.amazonaws.com/twiterappstacka30e2896/helloworldfunction19d43fc4repo"]
