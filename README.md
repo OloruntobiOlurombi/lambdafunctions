@@ -1,9 +1,9 @@
-# TOPIC: Lambda Function
+# Project: Lambda Function
 
 > In this project we will be creating a Lambda fuinction on AWS Cloud9 IDE.
 
 ### Overview
-##### What is AWS Lambda
+#### What is AWS Lambda
 > AWS Lambda is a new category of computing where business logic can be directly deployed to a production environment without thinking about servers. Another word for this is serverless or FaaS (Function As A Service). Some of the benefits of AWS Lambda include no servers to manage, continuous scaling, and billing at the sub-second level.
 
 > Another benefit of AWS Lambda includes being part of an ecosystem designed to exploit the capability. Here are two examples of AWS Lambda. The first example is AWS Step Functions. They build upon AWS Lambda to create more sophisticated workflows like polling for a job to finish and performing an action. The second example is AWS DeepLens (a computer vision device). It uses AWS Lambda to serve out predictions. Finally, if you look closely, almost every service on AWS can utilize AWS Lambda.
